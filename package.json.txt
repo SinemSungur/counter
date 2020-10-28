@@ -1,0 +1,28 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "A counter website project developed with Vanilla JavaScript, CSS3, media queries, responsive design integration techniques",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinemSungur/counter.git"
+  },
+  "keywords": [
+    "css3",
+    "html5",
+    "javascript",
+    "responsive-web-design",
+    "media-queries"
+  ],
+  "author": "Sinem Sungur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SinemSungur/counter.git/issues"
+  },
+  "homepage": "https://github.com/SinemSungur/counter.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
